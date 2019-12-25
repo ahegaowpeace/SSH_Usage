@@ -25,6 +25,7 @@ $ vi ~/.gitconfig
 ```
 
 - GitHub上にも公開鍵を登録する
+https://github.com/settings/keys
 
 #### リポジトリディレクトリでの設定
 ```
