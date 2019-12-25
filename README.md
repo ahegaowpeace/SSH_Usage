@@ -7,7 +7,7 @@ $ cd ~/.ssh
 $ ssh-keygen -t rsa
 ```
 
-- 接続する際に作成した鍵を見るようにする
+- 接続する際に作成した鍵を見るようにする/名前解決
 ```
 $ vi .ssh/config
 Host github
