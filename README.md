@@ -24,3 +24,4 @@ https://github.com/settings/keys
 $ git config remote.origin.url
 $ git remote add origin git@github.com:[ユーザID]/[リポジトリ].git
 ```
+hogehoge
