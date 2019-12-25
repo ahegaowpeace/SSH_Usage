@@ -24,7 +24,7 @@ $ vi ~/.gitconfig
     InsteadOf = git@github.com:
 ```
 
-- GitHub上にも公開鍵を登録する
+- GitHub上にも公開鍵を登録する  
 https://github.com/settings/keys
 
 #### リポジトリディレクトリでの設定
