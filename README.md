@@ -1,5 +1,5 @@
-# 手順
-## 鍵設定
+## 手順
+### 鍵設定
 
 - 鍵作成
 ```
@@ -16,11 +16,11 @@ Host github
   User git
 ```
 
-## リポジトリディレクトリでの設定
+### リポジトリディレクトリでの設定
 ```
 $ git config remote.origin.url
 $ git remote add origin git@github.com:[ユーザID]/[リポジトリ].git
 ```
 
-## GitHub上にも公開鍵を登録する  
+### GitHub上にも公開鍵を登録する  
 https://github.com/settings/keys
