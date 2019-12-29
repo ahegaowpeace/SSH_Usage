@@ -24,4 +24,3 @@ $ git remote add origin git@github.com:[ユーザID]/[リポジトリ].git
 
 ### GitHub上にも公開鍵を登録する  
 https://github.com/settings/keys
-hogehoge
